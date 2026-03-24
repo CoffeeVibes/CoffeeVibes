@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > Hey, I'm **CoffeeVibes aka Jake**!
 >
-> I'm currently on a learning journy with **C++**, **Python** and networking fundaments, eventually leading up to cyber security or code engineer.
+> I'm currently on a learning journy with **C++**, **Python** and networking fundaments, eventually leading up to cyber security or software engineer.
 > 
 > I love this and I look forward to contributing to the community! 🍄
 
