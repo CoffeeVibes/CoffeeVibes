@@ -6,9 +6,15 @@
 > [!IMPORTANT]
 > Hey, I'm **CoffeeVibes aka Jake**!
 >
-> I'm currently on a learning journy with **C++**, **Python** and networking fundaments, eventually leading up to cyber security or software engineer.
+> I'm currently on a learning journey with **C++**, **Python** and **networking fundaments**, eventually leading up to cyber security or software engineer.
 > 
 > I love this and I look forward to contributing to the community! 🍄
+>
+> - 🔭 I’m currently working on ~ **GoldenEye**
+>
+> - 📫 How to reach me: Discord(**sudo.update**)
+>
+> - 🥕 That's all for now folks!
 
 
 
