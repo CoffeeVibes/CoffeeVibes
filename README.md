@@ -16,6 +16,10 @@
 >
 > - 🥕 That's all for now folks!
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/358f393b-0f47-44e3-be0a-f9ee4dc6b9d5/thumbnail" >
+</p>
+
 
 
 
